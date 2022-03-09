@@ -1,0 +1,2 @@
+#!/bin/bash
+rm -r /tmp/mt_first_directory
